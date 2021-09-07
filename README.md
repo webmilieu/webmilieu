@@ -1,16 +1,29 @@
-### Hi there 👋
+## Visitor's Count : 
 
-<!--
-**webmilieu/webmilieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, Thanks For Visiting 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+About
+-
+
+- 🔭 I’m currently working as Freelancer
+- 🌱 I’m currently learning to be more productive
+- 👯 I’m available to collaborate 
+- 💬 **Programming Skills**
+ 
+      1. HTML5
+      2. CSS3
+      3. JavaScript/ JQuery
+      4. PHP
+      5. C/ C++
+      6. Java
+      7. XML
+
+Contact
+-
+- 📫 Email: [rockboyjit@gmail.com](mailto:rockboyjit@gmail.com)
+
+
+# ⚡⚡ Learning Is Fun ⚡⚡ #
